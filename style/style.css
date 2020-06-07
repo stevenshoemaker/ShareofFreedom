@@ -1,0 +1,40 @@
+body {
+    font-family: "Helvetica", Georgia;
+    background: #000000;
+}
+#main-wrapper {
+    margin: 40px auto;
+    overflow: visible;
+    z-index: 1;
+    color: #ffffff;
+    font-size: 60;
+    text-align: left;
+}
+#chart {
+    margin: 0px auto;
+}
+h1 {
+	font-size: 70px;
+	padding: 3px 0px;
+	font-weight: normal;
+    text-align: center;
+    font-family: Georgia;
+}
+text {
+    fill: #ffffff;
+/*    display: none;*/
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
