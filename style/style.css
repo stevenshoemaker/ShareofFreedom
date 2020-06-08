@@ -1,9 +1,10 @@
 body {
-    font-family: "Helvetica", Georgia;
+    font-family: Helvetica;
     background: #000000;
 }
+
 #main-wrapper {
-    margin: 40px auto;
+    margin: 20px auto;
     overflow: visible;
     z-index: 1;
     color: #ffffff;
@@ -20,6 +21,15 @@ h1 {
     text-align: center;
     font-family: Georgia;
 }
+
+h2 {
+    font-size: 20px;
+    padding: 3px 0px;
+    font-weight: normal;
+    text-align: left;
+    font-family: Helvetica;
+    fill: #;
+}
 text {
     fill: #ffffff;
 /*    display: none;*/
@@ -27,14 +37,3 @@ text {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
